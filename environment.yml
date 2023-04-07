@@ -4,7 +4,7 @@ channels:
   - defaults
 dependencies:
   - prophet=1.0.1=py37haa95532_0
-  - pip
+  - pip:
     - pip==22.3.1
     - pandas==1.3.0
     - plotly==5.14.1
